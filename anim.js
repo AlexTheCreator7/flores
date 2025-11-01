@@ -4,10 +4,7 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "But when he loves me I feel like I'm floating", time: 7 },
-  { text: "When he calls me pretty I feel like somebody", time: 8 },
-  { text: "Even when we fade eventually to nothing", time: 9 },
-  { text: "You will always be my favorite form of loving", time: 10 },
+
 ];
 
 // Animar las letras
